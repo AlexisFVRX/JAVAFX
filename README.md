@@ -10,7 +10,7 @@ Utiliser la page Web déjà existante pour créer un programme grâce au mécani
 
 • Commander la procédure de mise à jour du firmware de la carte // Pas fait
 
-• Appel d’un outil déjà existant (esptool) Ou Portage en Java du protocole de communication avec la carte / Fait partiellement
+• Appel d’un outil déjà existant (esptool) Ou Portage en Java du protocole de communication avec la carte // Fait partiellement
 
 • Choisir la version du firmware à installer // Pas fait 
 
