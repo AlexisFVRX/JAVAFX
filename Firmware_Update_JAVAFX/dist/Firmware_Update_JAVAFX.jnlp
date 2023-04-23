@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Firmware_Update_JAVAFX.jnlp">
+  <information>
+    <title>Firmware_Update_JAVAFX</title>
+    <vendor>alexis</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Firmware_Update_JAVAFX.jar" size="5318" download="eager" />
+    <jar href="lib/jSerialComm-2.9.3.jar" size="895804" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="firmware_update_javafx.Firmware_Update_JAVAFX"  name="Firmware_Update_JAVAFX" />
+  <update check="always"/>
+</jnlp>
